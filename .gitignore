@@ -1,0 +1,4 @@
+node_modules/
+.env
+EXPRESS_PROJECTS/API_GATEWAY/
+SERVER/

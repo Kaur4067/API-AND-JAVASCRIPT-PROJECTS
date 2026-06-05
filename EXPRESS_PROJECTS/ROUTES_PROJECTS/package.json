@@ -1,0 +1,17 @@
+{
+  "name": "routes_projects",
+  "version": "1.0.0",
+  "description": "\"creating amazing projects on routes\"",
+  "license": "ISC",
+  "author": "\"dilpreet kaur\"",
+  "type": "module",
+  "main": "book_manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "zod": "^4.4.3"
+  }
+}

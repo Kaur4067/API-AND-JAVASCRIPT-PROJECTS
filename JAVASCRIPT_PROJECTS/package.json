@@ -1,0 +1,16 @@
+{
+  "name": "javascript_projects",
+  "version": "1.0.0",
+  "description": "\"amazing api integration project \"",
+  "license": "ISC",
+  "author": "\"dilpreet kaur\"",
+  "type": "commonjs",
+  "main": "debators.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
